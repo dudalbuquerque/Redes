@@ -1,0 +1,3 @@
+Cliente ('127.0.0.1', 61490) enviou: Oi, server!
+Cliente ('127.0.0.1', 61490) enviou: Hello, server!
+Cliente ('127.0.0.1', 61490) enviou: Hi, server!
