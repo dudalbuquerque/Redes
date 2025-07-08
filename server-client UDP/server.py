@@ -17,4 +17,5 @@ print('Sever online esperando cliente')
 while True:
     socket_client, addr_client = server_socket.recvfrom(1024)
     Thread(target=handle_client, args=(socket_client, addr_client, server_socket)).start()
+    
 

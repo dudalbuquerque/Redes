@@ -1,3 +1,13 @@
 Cliente ('127.0.0.1', 61490) enviou: Oi, server!
 Cliente ('127.0.0.1', 61490) enviou: Hello, server!
 Cliente ('127.0.0.1', 61490) enviou: Hi, server!
+Cliente ('127.0.0.1', 62112) enviou: Oi, server!
+Cliente ('127.0.0.1', 62112) enviou: Hello, server!
+Cliente ('127.0.0.1', 62112) enviou: Hi, server!
+Cliente ('127.0.0.1', 53791) enviou: OI 
+Cliente ('127.0.0.1', 53791) enviou: Taram
+Cliente ('127.0.0.1', 49266) enviou: oi
+Cliente ('127.0.0.1', 49266) enviou: tram 
+Cliente ('127.0.0.1', 49266) enviou: dygs
+Cliente ('127.0.0.1', 49266) enviou: nideigfds
+Cliente ('127.0.0.1', 49266) enviou: hiudfsuigfjv
